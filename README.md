@@ -1,10 +1,10 @@
 ### Luke | AI Researcher and Enthusiast | Python, Java, Swift | 💻🦾🎧🖥️
 
-Current Projects ||
+Current Projects || 🔬🧪
 - Reinforcement Learning Implementations for Gymnasium Atari games
 - Reimplementing the (GeneGPT)[https://github.com/ncbi/GeneGPT] paper code and conclusions.
 
-Interests ||
+Interests || 🔧📺
 - Artificial Intelligence
 - Machine Learning
 - Data Science
