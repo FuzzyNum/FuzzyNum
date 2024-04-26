@@ -1,4 +1,4 @@
-### Luke | AI Researcher and Enthusiast | Python, Java, Swift |
+### Luke | AI Researcher and Enthusiast | Python, Java, Swift | 💻🤖🦾🎧🖥️👩🏾‍💻
 
 Current Projects ||
 - Reinforcement Learning Implementations for Gymnasium Atari games
